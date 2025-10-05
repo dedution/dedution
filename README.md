@@ -1,16 +1,42 @@
-## Hi there 👋
+## 🎮 Welcome to My World
 
-<!--
-**dedution/dedution** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m **Dedution**
+Game Developer | Tool Creator | Indie Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- Unity & Godot lover 
+- Worked on **Evil Below**  
+- Dev at **Fabamaq**  
+- Passionate about systems design, clean code, and modular architectures  
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<!-- GitHub stats card / contribution graph — you can use a service like github-readme-stats -->
+![Dedution's GitHub stats](https://github-readme-stats.vercel.app/api?username=dedution&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dedution&layout=compact&theme=dark)  
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+| Engine / Framework | Languages | Tools & Services |
+|--------------------|-----------|-------------------|
+| Unity, Godot        | C#, GDScript, JavaScript | Git, Docker, Blender, Photoshop, Blender, OBS |
+
+---
+
+## 📫 Connect with Me
+
+- 🌐 [Portfolio](https://dedution.github.io/portfolio)
+- 💼 [LinkedIn](https://linkedin.com/in/deduti0n)
+- 🐦 [Twitter](https://twitter.com/deduti0n)
+
+---
+
+Thanks for dropping by — feel free to explore, fork, or say hi!  
+↑ Back to top  
