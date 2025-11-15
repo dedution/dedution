@@ -14,14 +14,6 @@ Game Developer | Tool Creator | Indie Enthusiast
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-<!-- GitHub stats card / contribution graph — you can use a service like github-readme-stats -->
-![Dedution's GitHub stats](https://github-readme-stats.vercel.app/api?username=dedution&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dedution&layout=compact&theme=dark)  
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 | Engine / Framework | Languages | Tools & Services |
