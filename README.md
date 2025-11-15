@@ -7,8 +7,7 @@ Game Developer | Tool Creator | Indie Enthusiast
 
 ## 👨‍💻 About Me
 
-- Unity & Godot lover 
-- Worked on **Evil Below**  
+- Worked on **Evil Below** 
 - Dev at **Fabamaq**  
 - Passionate about systems design, clean code, and modular architectures  
 
@@ -18,7 +17,7 @@ Game Developer | Tool Creator | Indie Enthusiast
 
 | Engine / Framework | Languages | Tools & Services |
 |--------------------|-----------|-------------------|
-| Unity, Godot        | C#, GDScript, JavaScript | Git, Docker, Blender, Photoshop, Blender, OBS |
+| Unity, Godot        | C++, C#, GDScript, JavaScript | Git, Docker, AWS, Blender, Photoshop, Blender,
 
 ---
 
